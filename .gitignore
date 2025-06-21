@@ -1,0 +1,17 @@
+# Dependências
+/node_modules/
+
+# Cache do Parcel
+/.parcel-cache/
+
+# Build gerado
+/dist/
+
+# Arquivos de log e de bloqueio do sistema
+*.log
+.lock
+.lockdb
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
