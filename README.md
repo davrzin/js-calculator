@@ -32,7 +32,7 @@ It handles operator precedence, chaining operations, and multiple-digit input ju
 
 To run the calculator locally on your machine, follow these steps:
 
-# 1. Set Up Your Environment
+### 1. Set Up Your Environment
 
 Before getting started, make sure you have a working development environment. This includes:
 
@@ -47,7 +47,7 @@ Before getting started, make sure you have a working development environment. Th
     For more details on setting up your environment, refer to the SETUP.md file if provided in this repository.
 
 
-# 2. Download the Project
+### 2. Download the Project
 
 You have two options to get the project files:
 Option A – Clone via Git:
@@ -63,24 +63,51 @@ Option B – Download ZIP:
 
     Open a terminal and navigate into the extracted folder
 
-# 3. Install Dependencies
+### 3. Install Dependencies
 
 Once inside the root project folder, install the required packages by running:
 
-> npm install
+```
+npm install
+```
 
 Or if you're using Yarn:
 
-> yarn install
+```
+yarn install
+```
 
-# 4. Start the Development Server
+### 4. Start the Development Server
 
 With the dependencies installed, start the development environment using:
 
-> npm start
+```
+npm start
+```
 
 or
 
-> yarn start
+```
+yarn start
+```
 
-Your default browser should open automatically. If it doesn’t, just open your browser and enter the address manually:
+Your default browser should open automatically. If it doesn’t, just open your browser and enter the address manually.
+
+## 👥 Team involved
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ArturOliveir4">
+        <img src="https://github.com/ArturOliveir4.png" width="100px;" alt="Foto do Artur"/><br />
+        <sub><b>Artur Oliveira</b></sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/davrzin">
+        <img src="https://github.com/davrzin.png" width="100px;" alt="Foto do Davrzin"/><br />
+        <sub><b>Davi Roberto</b></sub>
+      </a><br />
+    </td>
+  </tr>
+</table>
