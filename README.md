@@ -31,6 +31,7 @@ It handles operator precedence, chaining operations, and multiple-digit input ju
 ## How to Run 
 
 To run the calculator locally on your machine, follow these steps:
+> Make sure your development environment is set up with Node.js and all necessary dependencies.
 
 ### 1. Set Up Your Environment
 
@@ -90,7 +91,10 @@ or
 yarn start
 ```
 
-Your default browser should open automatically. If it doesn’t, just open your browser and enter the address manually.
+Your default browser should open automatically. If it doesn’t, just open your browser and enter the address manually:
+```
+http://localhost:1234
+```
 
 ## 👥 Team involved
 
