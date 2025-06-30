@@ -44,12 +44,11 @@ Before getting started, make sure you have a working development environment. Th
 
     Recommended extensions (optional, but helpful)
 
-    For more details on setting up your environment, refer to the SETUP.md file if provided in this repository.
-
 
 ### 2. Download the Project
 
 You have two options to get the project files:
+
 Option A – Clone via Git:
 
 git clone https://github.com/leonardo-istamilo/javascript-calculator.git
