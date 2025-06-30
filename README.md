@@ -3,7 +3,7 @@
 > JavaScript calculator built with React and Redux
 
 
-## 📌 Description
+## Description
 
 This project is an interactive calculator built using JavaScript, with React for the user interface and Redux for state management. Its main goal is to meet the requirements of the "Build a JavaScript Calculator" challenge from the freeCodeCamp platform, as part of the Frontend Libraries Certification curriculum.
 This project is a simple calculator application developed using **React** and **Redux**. It fulfills the requirements for the **Frontend Libraries Certification** from [freeCodeCamp](https://www.freecodecamp.org/).
@@ -19,7 +19,7 @@ It handles operator precedence, chaining operations, and multiple-digit input ju
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - React
 - Redux
@@ -28,17 +28,59 @@ It handles operator precedence, chaining operations, and multiple-digit input ju
 
 ---
 
-## 📂 Project Structure
+## How to Run 
 
-```bash
-.
-├── public/                 # Static assets
-├── src/                    # Source files (React components, Redux logic)
-├── .gitignore
-├── README.md
-├── package.json
-├── package-lock.json
+To run the calculator locally on your machine, follow these steps:
 
-JavaScript calculator built with React and Redux for the FCC Frontend Libraries Certification.
+# 1. Set Up Your Environment
+
+Before getting started, make sure you have a working development environment. This includes:
+
+    Node.js
+
+    npm or Yarn
+
+    A code editor (such as Visual Studio Code)
+
+    Recommended extensions (optional, but helpful)
+
+    For more details on setting up your environment, refer to the SETUP.md file if provided in this repository.
 
 
+# 2. Download the Project
+
+You have two options to get the project files:
+Option A – Clone via Git:
+
+git clone https://github.com/leonardo-istamilo/javascript-calculator.git
+cd javascript-calculator
+
+Option B – Download ZIP:
+
+    Click the green Code button on GitHub and choose Download ZIP
+
+    Extract the folder to your preferred directory
+
+    Open a terminal and navigate into the extracted folder
+
+# 3. Install Dependencies
+
+Once inside the root project folder, install the required packages by running:
+
+> npm install
+
+Or if you're using Yarn:
+
+> yarn install
+
+# 4. Start the Development Server
+
+With the dependencies installed, start the development environment using:
+
+> npm start
+
+or
+
+> yarn start
+
+Your default browser should open automatically. If it doesn’t, just open your browser and enter the address manually:
