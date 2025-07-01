@@ -52,7 +52,7 @@ You have two options to get the project files:
 
 Option A – Clone via Git:
 
-git clone https://github.com/leonardo-istamilo/javascript-calculator.git
+git clone https://github.com/davrzin/js-calculator.git
 cd javascript-calculator
 
 Option B – Download ZIP:
